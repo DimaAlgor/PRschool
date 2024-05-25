@@ -1,0 +1,151 @@
+header {
+    border-top: 1px solid rgb(107, 107, 107);
+    border-bottom: 1px solid rgb(107, 107, 107);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header h1 {
+    background-color: rgb(3, 3, 195);
+    width: 160px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+header p {
+    font-size: 20px;
+}
+
+.htmlCSS {
+    border: 2px solid rgb(137, 137, 137);
+    border-radius: 30px;
+    width: 250px;
+    margin-left: 150px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.htmlCSS h1 {
+    background-color: rgb(255, 177, 32);
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 18px;
+    display: flex;
+    box-shadow: 4px 5px 0 0 rgb(197, 197, 197);
+}
+
+.htmlCSS img {
+    border-radius: 28px;
+    width: 250px;
+}
+
+main {
+    background-color: rgb(246, 246, 246);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.PYTHON {
+    border: 2px solid rgb(137, 137, 137);
+    border-radius: 30px;
+    width: 250px;
+    margin-left: 150px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.PYTHON h1 {
+    background-color: rgb(255, 177, 32);
+    width: 100px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 18px;
+    display: flex;
+    box-shadow: 4px 5px 0 0 rgb(197, 197, 197);
+}
+
+.PYTHON img {
+    border-radius: 28px;
+    width: 250px;
+} 
+
+.c {
+    border: 2px solid rgb(137, 137, 137);
+    border-radius: 30px;
+    width: 250px;
+    margin-left: 150px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.c h1 {
+    background-color: rgb(255, 177, 32);
+    width: 60px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 18px;
+    display: flex;
+    box-shadow: 4px 5px 0 0 rgb(197, 197, 197);
+}
+
+.c img {
+    border-radius: 28px;
+    width: 250px;
+}
+
+.Java {
+    border: 2px solid rgb(137, 137, 137);
+    border-radius: 30px;
+    width: 250px;
+    margin-left: 150px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Java h1 {
+    background-color: rgb(255, 177, 32);
+    width: 70px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 18px;
+    display: flex;
+    box-shadow: 4px 5px 0 0 rgb(197, 197, 197);
+}
+
+.Java img {
+    border-radius: 28px;
+    width: 250px;
+}
+
+.c2 {
+    border: 2px solid rgb(137, 137, 137);
+    border-radius: 30px;
+    width: 250px;
+    margin-left: 150px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.c2 h1 {
+    background-color: rgb(255, 177, 32);
+    width: 70px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 18px;
+    display: flex;
+    box-shadow: 4px 5px 0 0 rgb(197, 197, 197);
+}
+
+.c2 img {
+    border-radius: 28px;
+    width: 250px;
+}
+
+.yaziki {
+    display: flex;
+    flex-wrap: wrap;
+}
